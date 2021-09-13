@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_show_items_list.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\layout\\activity_show_items_list.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_send.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_delete.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_recyclerview_row.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\layout\\recyclerview_row.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_add_category_layout.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\layout\\add_category_layout.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_list.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_add_circle.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_edit.xml.flat",
+        "source": "D:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    }
+]

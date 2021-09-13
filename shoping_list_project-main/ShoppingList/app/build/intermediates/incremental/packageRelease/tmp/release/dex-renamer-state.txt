@@ -1,0 +1,4 @@
+#Mon Sep 13 19:27:11 PKT 2021
+base.0=D\:\\MyAndroidProjects\\ShoppingList_ MVVM_ Room(CRUD)_LiveData\\shoping_list_project-main\\ShoppingList\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

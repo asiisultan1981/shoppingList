@@ -1,0 +1,52 @@
+com/android/shoppinglist/SplashActivity.java
+ com.android.shoppinglist.SplashActivity
+ com.android.shoppinglist.SplashActivity$1
+com/android/shoppinglist/db/Category.java
+ com.android.shoppinglist.db.Category
+com/android/shoppinglist/db/Items.java
+ com.android.shoppinglist.db.Items
+com/android/shoppinglist/viewmodel/ShowItemListActivityViewModel.java
+ com.android.shoppinglist.viewmodel.ShowItemListActivityViewModel
+com/android/shoppinglist/db/AppDatabase.java
+ com.android.shoppinglist.db.AppDatabase
+ com.android.shoppinglist.db.AppDatabase$1
+com/android/shoppinglist/db/ShoppingListDao.java
+ com.android.shoppinglist.db.ShoppingListDao
+com/android/shoppinglist/MainActivity.java
+ com.android.shoppinglist.MainActivity
+ com.android.shoppinglist.MainActivity$1
+ com.android.shoppinglist.MainActivity$2
+ com.android.shoppinglist.MainActivity$3
+ com.android.shoppinglist.MainActivity$4
+com/android/shoppinglist/ItemsListAdapter.java
+ com.android.shoppinglist.ItemsListAdapter
+ com.android.shoppinglist.ItemsListAdapter$1
+ com.android.shoppinglist.ItemsListAdapter$2
+ com.android.shoppinglist.ItemsListAdapter$3
+ com.android.shoppinglist.ItemsListAdapter$HandleItemsClick
+ com.android.shoppinglist.ItemsListAdapter$MyViewHolder
+com/android/shoppinglist/BuildConfig.java
+ com.android.shoppinglist.BuildConfig
+com/android/shoppinglist/viewmodel/MainActivityViewModel.java
+ com.android.shoppinglist.viewmodel.MainActivityViewModel
+com/android/shoppinglist/ShowItemsListActivity.java
+ com.android.shoppinglist.ShowItemsListActivity
+ com.android.shoppinglist.ShowItemsListActivity$1
+ com.android.shoppinglist.ShowItemsListActivity$2
+com/android/shoppinglist/CategoryListAdapter.java
+ com.android.shoppinglist.CategoryListAdapter
+ com.android.shoppinglist.CategoryListAdapter$1
+ com.android.shoppinglist.CategoryListAdapter$2
+ com.android.shoppinglist.CategoryListAdapter$3
+ com.android.shoppinglist.CategoryListAdapter$HandleCategoryClick
+ com.android.shoppinglist.CategoryListAdapter$MyViewHolder
+com/android/shoppinglist/viewmodel/ShoppingRepository.java
+ com.android.shoppinglist.viewmodel.ShoppingRepository
+ com.android.shoppinglist.viewmodel.ShoppingRepository$1
+ com.android.shoppinglist.viewmodel.ShoppingRepository$2
+ com.android.shoppinglist.viewmodel.ShoppingRepository$3
+ com.android.shoppinglist.viewmodel.ShoppingRepository$4
+ com.android.shoppinglist.viewmodel.ShoppingRepository$5
+ com.android.shoppinglist.viewmodel.ShoppingRepository$6
+ com.android.shoppinglist.viewmodel.ShoppingRepository$7
+ com.android.shoppinglist.viewmodel.ShoppingRepository$8
